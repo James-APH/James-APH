@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+## About Me:
+
+Hi, my name is James Huston, I am a second year student from the University of Lethbridge.
+
 
 <!--
 **James-APH/James-APH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
