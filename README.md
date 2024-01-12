@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## About Me:
-
-Hi, my name is James Huston, I am a second year student from the University of Lethbridge.
+My name is James Huston, I am a second year student from the University of Lethbridge.
 
 
 <!--
