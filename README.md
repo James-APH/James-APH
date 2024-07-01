@@ -22,10 +22,10 @@ My name is James Huston, I am a third-year student at the University of Lethbrid
 </div>
 
 
-## Languages:
+## Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-APH&layout=compact&theme=vision-friendly-dark)
 
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=James-APH&theme=dark&background=000000)
 
 
 <!--
