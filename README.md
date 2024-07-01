@@ -1,9 +1,8 @@
 # Hi there 👋
+My name is James Huston, I am a third-year student at the University of Lethbridge. At the moment I am mainly interested in Automata Theory and Cyber Security.
 
-My name is James Huston, I am a third-year student at the University of Lethbridge.
-
-## Media
-<div id="badges">
+## Media:
+<div id="media-badges">
   <a href="www.linkedin.com/in/james-aph">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,6 +10,22 @@ My name is James Huston, I am a third-year student at the University of Lethbrid
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
   </a>
 </div>
+
+## Programs / Languages:
+<div id="software-badges">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NVim Badge"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Badge"/>
+  <img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" alt="HomeBrew Badge"/>
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2 Badge"/>
+</div>
+
+
+## Languages:
+  https://github-readme-stats.vercel.app/api/top-langs/?username={James-APH}&theme={dark}
+	https://github-readme-stats.vercel.app/api/top-langs/?username={James-APH}
+
 
 
 
