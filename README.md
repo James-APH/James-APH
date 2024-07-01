@@ -23,8 +23,7 @@ My name is James Huston, I am a third-year student at the University of Lethbrid
 
 
 ## Languages:
-  https://github-readme-stats.vercel.app/api/top-langs/?username={James-APH}&theme={dark}
-	https://github-readme-stats.vercel.app/api/top-langs/?username={James-APH}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-APH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
