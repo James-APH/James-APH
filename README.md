@@ -8,10 +8,7 @@ My name is James Huston, I am a third-year student at the University of Lethbrid
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://tryhackme.com/p/James.APH">
-    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge alt="TryHackMe Badge"/>
-  </a>
-  <a href="https://open.kattis.com/users/james-aph">
-    <img src="https://img.shields.io/badge/Kattis-green?style=for-the-badge alt="Kattis Badge"/>
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
   </a>
 </div>
 
