@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is James Huston, I am a third-year student at the University of Lethbridge. At the moment I am mainly interested in Automata Theory and Cyber Security.
+My name is James Huston, I am a third-year student at the University of Lethbridge. I am mainly interested in Functional Programming, Automata Theory and Cyber Security.
 
 ## Media:
 <div id="media-badges">
