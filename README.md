@@ -3,14 +3,20 @@ My name is James Huston, I am a third-year student at the University of Lethbrid
 
 ## Media:
 <div id="media-badges">
+  <p>
   <a href="www.linkedin.com/in/james-aph">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/James-APH">
-    <img src="https://www.codewars.com/users/James-APH/badges/large" alt="Codewars Badge"/>
-  </a>
+    </p>
+  <p>
   <a href="https://tryhackme.com/p/James.APH">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
+  </a>
+    </p>
+  <p>
+    <a href="https://www.codewars.com/users/James-APH">
+    <img src="https://www.codewars.com/users/James-APH/badges/large" alt="Codewars Badge"/>
+  </p>
   </a>
 </div>
 
