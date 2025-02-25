@@ -1,6 +1,8 @@
 # Hi there 👋
 My name is James Huston, I am a third-year student at the University of Lethbridge. I am mainly interested in Functional Programming, Automata Theory and Cyber Security.
 
+Checkout my website [here](james-aph.github.io/)
+
 ## Media:
 <div id="media-badges">
   <p>
