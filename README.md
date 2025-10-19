@@ -3,22 +3,13 @@ My name is James Huston, I am a fourth-year student at the University of Lethbri
 
 I am mainly interested in:
 - Game Development - specifically: Animation Design and Mechanics.
-- Developing resilient Tui and Gui applications with Rust.
+- Developing Tui, Gui and applications to improve quality of life with Rust.
 
 Checkout my website [here](https://james-aph.github.io/)
 
 <h2>Media</h2>
 <div id="media-badges">
-  <p>
-  <a href="www.linkedin.com/in/james-aph">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    </p>
-  <p>
-    <a href="https://www.codewars.com/users/James-APH">
-    <img src="https://www.codewars.com/users/James-APH/badges/large" alt="Codewars Badge"/>
-  </p>
-  </a>
+<a href="www.linkedin.com/in/james-aph"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </div>
 
 <h2>Languages:</h2>
