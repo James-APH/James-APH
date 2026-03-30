@@ -26,6 +26,3 @@ Or my linkedin here:
 - Game engine architecture
 - Web development with PHP
 - CLI tooling with Rust
-
-## Stats:
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-APH&show_icons=true&theme=gruvbox&count_private=true)
